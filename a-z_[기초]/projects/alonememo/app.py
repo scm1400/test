@@ -14,6 +14,7 @@ db = client.dbsparta
 
 
 # 카카오로그인 구현!
+# 카카오 프로필이미지 가져오기!
 
 ## HTML을 주는 부분
 @app.route('/')
