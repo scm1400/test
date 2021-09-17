@@ -10,6 +10,8 @@ from pymongo import MongoClient
 client = MongoClient('localhost', 27017)
 db = client.dbsparta
 
+# 네이버 로그인 구현하기!
+
 
 ## HTML을 주는 부분
 @app.route('/')
