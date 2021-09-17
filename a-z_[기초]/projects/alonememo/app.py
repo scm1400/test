@@ -12,13 +12,10 @@ from pymongo import MongoClient
 client = MongoClient('localhost', 27017)
 db = client.dbsparta
 
-<<<<<<< HEAD
 # 네이버 로그인 구현하기!
 # 네이버 API를 이용해 프로필이미지 가져오기!
 
-=======
 #깃헙 로그인 구현하기
->>>>>>> master
 
 # 카카오로그인 구현!
 # 카카오 프로필이미지 가져오기!
